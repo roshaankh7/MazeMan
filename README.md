@@ -1,11 +1,8 @@
 # Maze-Man
-[Demo Video](https://drive.google.com/file/d/1UEZ4fY2EC_F_YwfBh5GYVpC9Zr8rQHIJ/view?usp=drive_link)
-Please note the Zoom recording framerate is low, so the FPS of the gameplay is low as well.
 
-[Online Demo](https://brian-lou.github.io/MazeMan/)
+[Online Demo](https://roshaankh7.github.io/MazeMan/)
 
-[Written Report](Writeup.pdf)
-
+Team members: Roshaan Khalid 25', Brian Lou '24, Daniel Park '24
 ## Abstract
 Our project is Maze-Man, an isometric Pac-Man-inspired rogue-like game built using Three.js. The game consists of three levels of increasing difficulty, and the objective is to defeat all the enemies/ghosts on each level. Colliding with ghosts head-on will decrease your HP, while attacking them from behind is safe. Level up to increase your stats and collect items to power up your character!
 
