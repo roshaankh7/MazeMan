@@ -2,7 +2,7 @@
 
 [Online Demo](https://roshaankh7.github.io/MazeMan/)
 
-Team members: Roshaan Khalid 25', Brian Lou '24, Daniel Park '24, Bryant Zeng '25
+Team: Roshaan Khalid 25', Brian Lou '24, Daniel Park '24, Bryant Zeng '25
 ## Abstract
 Our project is Maze-Man, an isometric Pac-Man-inspired rogue-like game built using Three.js. The game consists of three levels of increasing difficulty, and the objective is to defeat all the enemies/ghosts on each level. Colliding with ghosts head-on will decrease your HP, while attacking them from behind is safe. Level up to increase your stats and collect items to power up your character!
 
